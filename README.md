@@ -1,4 +1,4 @@
-# Organizador_Descargas
+# Download_Organizator
 
 This simple script performs a function of sorting the downloads folder into various subfolders.
 

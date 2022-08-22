@@ -1,3 +1,10 @@
+#Name: Organizator.py
+#Script Description: 
+#Developer: Jose Luis Caceres
+#Copyright: (C) Jose Luis Caceres Losada
+
+
+
 from PIL import Image
 import os
 import tkinter
